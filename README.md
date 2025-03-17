@@ -1,2 +1,2 @@
-# chess-game-length
-Chess games are sometimes really long. It would be nice to predict how long a game lasts from information about the players and opening.
+# chess-game-predictor
+Chess games are awesome. Let's try and predict who wins!
