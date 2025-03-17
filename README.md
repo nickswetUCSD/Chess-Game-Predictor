@@ -1,4 +1,4 @@
-# chess-game-predictor
+# CHESS GAME PREDICTOR -- READ ME
 Chess games are awesome. Let's try and predict who wins! 
 
 # Repo Anatomy
